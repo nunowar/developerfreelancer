@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.border-overlay {
+    @apply outline-1 -outline-offset-1 outline-black/5
+}
