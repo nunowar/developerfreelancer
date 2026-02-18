@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://developerfreelancer.com/sitemap.xml
